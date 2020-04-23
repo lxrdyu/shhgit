@@ -1,4 +1,4 @@
-github_access_tokens:
+github_access_tokens:ahmydick
   - ''
 slack_webhook: ''
 blacklisted_extensions: [".exe", ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".tif", ".psd", ".xcf", ".zip", ".tar.gz", ".ttf", ".lock"]
